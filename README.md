@@ -1,1 +1,3 @@
 # gitpracticeforclassroom
+this is thasbir
+uploading the code to github...
